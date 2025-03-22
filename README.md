@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Fadi. Software engineer at [Dataloop.ai](https://dataloop.ai/)
+I'm Fadi. Software engineer
 <!--
 **fadiatamny/fadiatamny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
